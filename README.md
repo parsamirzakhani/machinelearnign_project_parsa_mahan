@@ -23,8 +23,9 @@
 
 ```text
 .
-├── figures/                  # خروجی‌های مدل، جداول و نمودارها           
-├── pneumonia_detection.ipynb   # نوت‌بوک اصلی آموزش و ارزیابی خط‌به‌خط
+├── figures/                    # خروجی‌های مدل، جداول و نمودارها           
+├── notebook/                   #نوت‌بوک اصلی آموزش و ارزیابی  خط‌به‌خط 
+|   video                       # ویدیو تبلیغاتی مدل
 ├── requirements.txt            # پیش‌نیازها برای pip
 ├── environment.yml             # تنظیمات محیط مجازی برای Conda
 └── README.md                   #
